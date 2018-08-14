@@ -4,9 +4,6 @@ version: 0.0.2
 author: Nami.W <namiheike@gmail.com>
 homepage: https://github.com/namiwang/flutter_html_widget
 
-environment:
-  sdk: ">=2.0.0"
-
 dependencies:
   flutter:
     sdk: flutter
